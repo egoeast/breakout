@@ -1,0 +1,152 @@
+[
+  {
+    "map": [
+      [
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "green",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": false
+        }
+      ],
+      [
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "green",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "green",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "green",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "red",
+          "status": true
+        },
+        {
+          "color": "green",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": false
+        }
+      ]
+
+    ]
+  },
+  {
+    "map": [
+      [
+        {
+          "color": "green",
+          "status": false
+        },
+        {
+          "color": "yellow",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": false
+        }
+      ],
+      [
+        {
+          "color": "green",
+          "status": true
+        },
+        {
+          "color": "yellow",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "green",
+          "status": true
+        },
+        {
+          "color": "yellow",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "green",
+          "status": true
+        },
+        {
+          "color": "yellow",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": true
+        }
+      ],
+      [
+        {
+          "color": "green",
+          "status": false
+        },
+        {
+          "color": "yellow",
+          "status": true
+        },
+        {
+          "color": "red",
+          "status": false
+        }
+      ]
+
+    ]
+  }
+]
